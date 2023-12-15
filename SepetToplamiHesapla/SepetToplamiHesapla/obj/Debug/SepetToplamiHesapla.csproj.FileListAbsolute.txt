@@ -1,0 +1,20 @@
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.exe.config
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.exe
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.pdb
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csprojAssemblyReference.cache
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.Form1.resources
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.Properties.Resources.resources
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csproj.GenerateResource.cache
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csproj.CoreCompileInputs.cache
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.exe
+C:\Users\koray.kavruk\source\repos\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.exe.config
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\bin\Debug\SepetToplamiHesapla.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csproj.AssemblyReference.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.Form1.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.Properties.Resources.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csproj.GenerateResource.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.csproj.CoreCompileInputs.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\SepetToplamiHesapla\SepetToplamiHesapla\obj\Debug\SepetToplamiHesapla.pdb
